@@ -1,28 +1,27 @@
-#shape{
+#shape {
     width: 250px;
     height: 200px;
-    background-color: cadetblue;
-    border-radius: 7%;
+    background-color: steelblue; /* Changed to a deeper shade */
+    border-radius: 10%;
     position: relative;
 }
 
-body{
-    background: linear-gradient(to bottom right,black 40%,#4B4B53 60%);
+body {
+    background: linear-gradient(to bottom right, #232B2B 40%, #6A5ACD 60%); /* Dark slate with purple */
     height: 96vh;
-    
 }
 
-h1{
-    color: bisque;
+h1 {
+    color: lightcoral; /* Warmer tone */
     text-align: center;
 }
 
-p{
-    color:darkkhaki;
+p {
+    color: mediumseagreen; /* Fresh green */
     text-align: center;
 }
 
-#result{
-    color: goldenrod;
+#result {
+    color: deepskyblue; /* Bright and attention-grabbing */
     text-align: center;
 }
