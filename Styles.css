@@ -1,0 +1,28 @@
+#shape{
+    width: 250px;
+    height: 200px;
+    background-color: cadetblue;
+    border-radius: 7%;
+    position: relative;
+}
+
+body{
+    background: linear-gradient(to bottom right,black 40%,#4B4B53 60%);
+    height: 96vh;
+    
+}
+
+h1{
+    color: bisque;
+    text-align: center;
+}
+
+p{
+    color:darkkhaki;
+    text-align: center;
+}
+
+#result{
+    color: goldenrod;
+    text-align: center;
+}
